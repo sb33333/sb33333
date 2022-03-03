@@ -9,6 +9,9 @@
 <img alt="Html" src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
+## 📚 Reading
+<a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=28301535" target="_blank">최범균, 『객체지향과 디자인 패턴』,인투북스 </a>
+
 ## 📫 How to reach me
 ### e-mail : shim4@outlook.kr
 
