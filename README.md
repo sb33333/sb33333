@@ -1,14 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<hr>
-<p1>🌱 I’m currently learning</p1>
+### I'm Sanghyeok Im
 
-Java
-SpringBoot
-JPA
+## 🌱 I’m currently learning
+<div>
+<img alt="Java" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+<img alt="Spring" src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
+<img alt="Html" src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</div>
 
-
-📫 How to reach me: e-mail : shim4@outlook.kr
+## 📫 How to reach me
+### e-mail : shim4@outlook.kr
 
 <!--
 **sb33333/sb33333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +24,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://soenglish.me/introduce-yourself/
+
 -->
