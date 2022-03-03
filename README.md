@@ -27,4 +27,8 @@ Here are some ideas to get you started:
 
 https://soenglish.me/introduce-yourself/
 
+작성 도움자료
+https://byul91oh.tistory.com/214
+https://for-it-study.tistory.com/66
+https://simpleicons.org/
 -->
