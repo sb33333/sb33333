@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning
 <hr>
+<p1>🌱 I’m currently learning</p1>
+
 Java
 SpringBoot
 JPA
