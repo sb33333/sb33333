@@ -12,7 +12,8 @@
 ## 📚 Reading
 <details><summary>List</summary>
   <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=28301535" target="_blank">최범균, 『객체지향과 디자인 패턴』,인투북스 </a></br>
-  <a href="http://aladin.kr/p/RWMan">Gene, 『그림으로 배우는 네트워크 원리』,영진닷컴</a>
+  <a href="http://aladin.kr/p/RWMan">Gene, 『그림으로 배우는 네트워크 원리』,영진닷컴</a> </br>
+  <a href="http://aladin.kr/p/TedbB">김인우, 『스프링 부트 시작하기』, 프로그래밍 인사이트</a>
 </details>
 
 
