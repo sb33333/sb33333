@@ -7,6 +7,8 @@
 <img alt="Java" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> 
 <img alt="Spring" src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
 <img alt="Html" src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
 ## 📚 Reading
