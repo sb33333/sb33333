@@ -19,6 +19,7 @@
   <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=28301535" target="_blank">최범균, 『객체지향과 디자인 패턴』,인투북스 </a></br>
   <a href="http://aladin.kr/p/RWMan">Gene, 『그림으로 배우는 네트워크 원리』,영진닷컴</a> </br>
   <a href="http://aladin.kr/p/TedbB">김인우, 『스프링 부트 시작하기』, 프로그래밍 인사이트</a> - <a href="https://github.com/sb33333/springboard"> <실습> </a> </br>
+  <a href="http://aladin.kr/p/FGV4y">송형주, 고현준, 『인사이드 자바스크립트』, 한빛미디어</a><br/>
   inflearn - <a href="https://inf.run/fogP">자바스크립트+jQuery 기초부터 실무까지: 기초 Part.1</a>
 </details>
 
