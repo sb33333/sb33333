@@ -1,9 +1,4 @@
-## Hi there 👋
 
-### I'm Sanghyeok Im
-#### Hoping to be Back-end developer
-
-## 🌱 I’m currently learning
 <div>
 <img alt="Java" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> 
 <img alt="Spring" src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
